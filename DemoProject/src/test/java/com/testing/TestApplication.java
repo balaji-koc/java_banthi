@@ -20,6 +20,7 @@ public class TestApplication {
 	public void testAdd() {
 		assertTrue("test" , 2==new Application().add(1, 1));
 		System.out.println("First commit");
+		System.out.println("2nd commit");
 	}
 
 }
